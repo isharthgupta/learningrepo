@@ -1,1 +1,2 @@
 Docker Compose is a YAML file which contains details about the services, networks, and volumes for setting up the application. So, you can use Docker Compose to create separate containers, host them and get them to communicate with each other. Each container will expose a port for communicating with other containers.
+Need to check what happens when a second user is created.
